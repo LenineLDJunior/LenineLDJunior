@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lenine.jr?igshid=ZDdkNTZiNTM=)
 
 
-![Lenine GitHub stats](https://github-readme-stats.vercel.app/api?username=LenineLDJunior&show_icons=true&theme=dark))
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
