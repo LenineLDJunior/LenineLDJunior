@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## Eu sou o Lenine Junior 🖐️
+## My name is Lenine Junior 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenine-junior)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lenine.jr?igshid=ZDdkNTZiNTM=)
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies in use in my daily life
 
 <div style="display: inline_block">
   
@@ -22,5 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenineLDJunior&layout=compact&theme=dracula)
 
-### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+### Passionate about technology, education and changing people's lives through programming.
 
