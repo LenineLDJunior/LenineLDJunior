@@ -20,7 +20,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenineLDJunior&layout=compact)](https://github.com/LenineLDJunior/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenineLDJunior&layout=compact&theme=dracula)
 
 ### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
