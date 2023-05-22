@@ -20,7 +20,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenineLDJunior&layout=compact&theme=dracula)
-
 ### Passionate about technology, education and changing people's lives through programming.
 
